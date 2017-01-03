@@ -1,0 +1,7 @@
+int attr motionIntensity 0x7f010000
+int attr motionScaledIntensity 0x7f010002
+int attr motionTiltSensitivity 0x7f010001
+int[] styleable ParallaxImageView { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable ParallaxImageView_motionIntensity 0
+int styleable ParallaxImageView_motionScaledIntensity 2
+int styleable ParallaxImageView_motionTiltSensitivity 1

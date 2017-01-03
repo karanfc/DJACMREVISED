@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ParallaxImageView"><attr format="float" name="motionIntensity"/><attr format="float" name="motionTiltSensitivity"/><attr format="boolean" name="motionScaledIntensity"/></declare-styleable>
+</resources>

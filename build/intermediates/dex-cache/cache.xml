@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_d37584885c415d47213cf3d2bb85cd6c83241c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_0dc9074f427aafcb4e4617a68fa5389587c1cc3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.nvanbenschoten.motion\library\1.1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d244d3a402d60c744dd0cde1df21143f577ef628">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.nvanbenschoten.motion-library-1.1.2_b79927b9dad38703a10acfb03ee93bee1e5ef8f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_cf888417ce03d4b5ff1cf854294a8cd2d019a6bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_9f4bd72a67338d83b9c71b5893ada5495d09d937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_47d88e65df742033770bbc487e42dbbb69a08bf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_b106b7a3b8265d7812ae6f6e57ea0c0a93e58c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_acc665c8e005fbc959f2a4d1994884e4659efff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_a286385bf538e70bd5bc004180c3096ce2cc3854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_fe8deeb6d97270632cbdf1eb2ecaa137c160e28d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.0_782b784c496d33ea1f3e3ce1f71b13028af899ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_ddbc5e69953aa18c189a48d395ed3df2c998bc56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_3e0a54e63d266db53ecfa0967787f7308487b9d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_dd6ba05d09bd9a9e45d2480741741b9ad64b6d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\glide-3.7.0_f143cacdcc4a4315eaff367390188f9175c55012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_c20d4103a60b6c25a194300da6f577cad18afb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_a43e64c7db31a2f68ac50ddeb698a04f455c937b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_8d2ea3ea19f43f601cf67d2dd25f6949251efb12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_5f44dd6c0434c58dd6dc3a21fc11d73ef2f6c7f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\karan\AndroidStudioProjects\DJACM\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1e3369858db44cf285105a2a3e770a20eff0af30.jar" />
+    </item>
+
+</items>
